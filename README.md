@@ -1,14 +1,16 @@
 # Family-Book
 
 ## Tecnologias e Conceitos
-* React e ReactJS
-* Webpack
-* Babel
-* Components
+
+- React e ReactJS
+- Webpack
+- Babel
+- Components
 
 ## Sobre a Aplicação
 
 ## Resultado
 
-#### *Página de feed* ####
-![](/assets/screenshot-feeds.png)
+#### _Página de feed_
+
+![](src/assets/screenshot-feeds.png)
