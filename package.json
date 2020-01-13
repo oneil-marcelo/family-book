@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+"home": "http://lab.yeza.com.br/familybook"
   "scripts": {
     "dev": "webpack-dev-server --mode development",
     "prod": "webpack --mode production"
