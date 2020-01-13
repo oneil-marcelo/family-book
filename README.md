@@ -8,7 +8,7 @@
 
 ## Sobre a Aplicação
 
-# Resultado
+## Resultado
 
 #### *Página de feed* ####
 ![](/assets/screenshot-feeds.png)
