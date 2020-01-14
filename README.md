@@ -17,7 +17,7 @@ Nele é visto o papel do Babel, Webpack e também uma introdução sobre compone
 
 A lista do feed é um mockup dentro da aplicação.
 
-_[Conhecer a versão Family Book on-line](http://lab.yeza.com.br/familybook)_
+_[Conhecer a versão on-line Family Book](http://lab.yeza.com.br/familybook)_
 
 ## Resultado
 
