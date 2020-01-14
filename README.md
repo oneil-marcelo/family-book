@@ -11,13 +11,13 @@ Esse repositório faz parte de um estudo sobre React e ReactJS.
 
 ## Sobre a Aplicação
 
-A aplicação é resultado do estudo de conceitos básicos da biblioteca.
+A aplicação é resultado do estudo sobre conceitos básicos da biblioteca React.
 
-O estudo aborda conceitos básicos sobre componentização, o que é qual o papel do Babel e do Webpack.
+Nele é visto o papel do Babel, Webpack e também uma introdução sobre componentização.
 
-A lista que preenche o feed é um mockup dentro da aplicação.
+A lista do feed é um mockup dentro da aplicação.
 
-[Ver Family Book on-line](http://lab.yeza.com.br/familybook)
+_[Conhecer a versão Family Book on-line](http://lab.yeza.com.br/familybook)_
 
 ## Resultado
 
